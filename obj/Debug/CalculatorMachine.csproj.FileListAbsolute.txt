@@ -1,0 +1,6 @@
+E:\Mata Kuliah Semester 3\Pemrograman Lanjut\CalculatorMachine\obj\Debug\CalculatorMachine.csprojAssemblyReference.cache
+E:\Mata Kuliah Semester 3\Pemrograman Lanjut\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.CoreCompileInputs.cache
+E:\Mata Kuliah Semester 3\Pemrograman Lanjut\CalculatorMachine\bin\Debug\CalculatorMachine.dll
+E:\Mata Kuliah Semester 3\Pemrograman Lanjut\CalculatorMachine\bin\Debug\CalculatorMachine.pdb
+E:\Mata Kuliah Semester 3\Pemrograman Lanjut\CalculatorMachine\obj\Debug\CalculatorMachine.dll
+E:\Mata Kuliah Semester 3\Pemrograman Lanjut\CalculatorMachine\obj\Debug\CalculatorMachine.pdb
